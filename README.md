@@ -64,7 +64,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-puce-25.vercel.app/api?username=Mobeenkhxn01&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="160" />
+  <img src="https://github-readme-stats-sigma-puce-25.vercel.app/api?username=Mobeenkhxn01&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160" />
   <img src="https://github-readme-stats-sigma-puce-25.vercel.app/api/top-langs/?username=Mobeenkhxn01&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="160" />
 </p>
 
