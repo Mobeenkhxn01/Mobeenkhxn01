@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack Developer · TypeScript & Next.js · Open to Work</b><br/>
-  <sub>Building production-grade web applications · Targeting product-based companies (10–20 LPA)</sub>
+  <sub>Building production-grade web applications</sub>
 </p>
 
 <p align="center">
