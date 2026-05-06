@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/Mobeenkhan456">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/Mobeenkhxn01">
+  <a href="https://instagram.com/_mobeenkhan01">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat" />
@@ -89,7 +89,7 @@
 If you're building something interesting or have an opportunity, I'd love to talk.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mobeenkhan456)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Mobeenkhxn01)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mobeenkhan01)
 
 ---
 
